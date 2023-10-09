@@ -27,8 +27,8 @@ body{
 }
 
 #open-btn:active{
-    background-color: rgb(213, 35, 35);
-    color: rgb(2, 2, 2);
+    transition: .5s;
+    color: transparent;
 }
 
 #quotes{
